@@ -29,13 +29,9 @@ This project explores a massive dataset of online user interactions — includin
   
 ## 📄 Files Included
 
-- `port1_polished.ipynb`: Main analysis notebook
-- `port1#.pdf`: Printable/exportable version
-- `port1#.html`: Web-friendly version
-
-## 🖼️ Sample Visuals
-
-*(Optional: add screenshots here if you want)*
+- `###.ipynb`: Main analysis notebook
+- `###.pdf`: Printable/exportable version
+- `###.html`: Web-friendly version
 
 ## 🏁 Conclusion
 
